@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\ASWorkspace\DashedSurroundTextview\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0489fd376ea604974c217ff821144da5d5719736">
+        <dex dex="D:\ASWorkspace\DashedSurroundTextview\app\build\intermediates\pre-dexed\debug\instant-run_d97c442153cfda198a582f192dd8597465db7f67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ASWorkspace\DashedSurroundTextview\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="D:\ASWorkspace\DashedSurroundTextview\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_d38a3c5ecd4023fc379e66791ffab74a8e0109a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ASWorkspace\DashedSurroundTextview\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b819c84cff21f07b73a84a385a7af2207ffdccdb">
+        <dex dex="D:\ASWorkspace\DashedSurroundTextview\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_6a53d701c589089ebaeca07a1db381e951c35927.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ASWorkspace\DashedSurroundTextview\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="D:\ASWorkspace\DashedSurroundTextview\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_f89679d068972b1e413f46e5167f7ed939cd7fc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ASWorkspace\DashedSurroundTextview\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="D:\ASWorkspace\DashedSurroundTextview\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_b990b263576c91750fe64d3f00830de1834da958.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ASWorkspace\DashedSurroundTextview\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="D:\ASWorkspace\DashedSurroundTextview\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_15ca3de8c1757014871d0cd528cffea3637369f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ASWorkspace\DashedSurroundTextview\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="D:\ASWorkspace\DashedSurroundTextview\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_d2b9baf60b56e30f8a177b869a2b3ef60eea455c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidSdk\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="D:\ASWorkspace\DashedSurroundTextview\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_7d5e78efa5aa96ab5ebe88c61d2ad7cd98c93ffc.jar" />
+    </item>
+
+</items>
